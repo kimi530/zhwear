@@ -1,0 +1,26 @@
+.footer {
+    min-height: 15rem;
+    background-color: rgb(245, 245, 245);
+}
+.footerlinks li {
+    list-style: none;
+    margin-top: .9rem;
+}
+.y {
+    margin-top: 4rem;
+}
+
+.l input {
+    padding: .3rem;
+    width: 240px;
+    border: 1px solid grey;
+}
+.l button {
+    padding: .3rem;
+    width: 120px;
+    border: 1px solid grey;
+    background-color: rgb(48, 48, 48);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}

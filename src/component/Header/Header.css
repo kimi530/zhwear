@@ -1,0 +1,35 @@
+
+.header-bg {
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+    padding: 1.3rem;
+    border-bottom: 1px solid rgb(209, 209, 209);
+}
+Nav .brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;
+}
+Nav .main-links {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin: .2rem;
+    font-size: .8rem;
+}
+.hr {
+    color: black;
+    width: 100%;
+  
+}
+.navlinks{
+    font-family: 'Roboto', sans-serif;
+    color: #112a41 !important;
+  }
+  .navbrand {
+      font-weight: bold !important;
+      font-size: 1.7rem !important;
+  }
+  .mainlinks {
+      font-weight: bold !important;
+      font-size: .7rem !important;
+  }
